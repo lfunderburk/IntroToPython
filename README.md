@@ -27,4 +27,4 @@ By the end of this workshop, participants will build a simulation of an unfair p
 
 ###### Acknowledgements
 
-Python workshop material was based on Software Carpentrie's http://swcarpentry.github.io/python-novice-gapminder/ 
+Python workshop material was based on Software Carpentry's http://swcarpentry.github.io/python-novice-gapminder/ 
