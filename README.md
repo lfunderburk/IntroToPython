@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfunderburk/IntroToPython/master)
+
 # Introduction to Python Workshop
 #### Laura Gutierrez Funderburk | Department of Mathematics | Spring 2019
 
