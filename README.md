@@ -1,13 +1,15 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfunderburk/IntroToPython/master)
 
 # Introduction to Python Workshop
-#### Laura Gutierrez Funderburk | Simon Fraser University
+#### Laura Gutierrez Funderburk | Simon Fraser University | Callysto
 
 ###### Topics that will be covered:
 
 - Use of for loops, if and while statements 
 
 - Function definition
+
+- Array manipulation with numpy
 
 - 2D visualization with matplotlib
 
