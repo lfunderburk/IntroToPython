@@ -1,5 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfunderburk/IntroToPython/master)
 
+
 # Introduction to Python Workshop
 #### Laura Gutierrez Funderburk | Simon Fraser University | Callysto
 
@@ -28,3 +29,5 @@ By the end of this workshop, participants will build a simulation of an unfair p
 ###### Acknowledgements
 
 Python code found in the WorkshopIntroToPython.ipynb notebook was based on Software Carpentry's workshop material covered in http://swcarpentry.github.io/python-novice-gapminder/ 
+
+![](https://github.com/callysto/callysto-sample-notebooks/blob/master/notebooks/images/Callysto_Notebook-Banners_Bottom_06.06.18.jpg?raw=true)
